@@ -13,7 +13,7 @@
 
 ### Disparando a los Enemigos:
 
-![DispararEnemigo](./gif/DispararEnemigo.gif)
+![Enemigo](./gif/Enemigo.gif)
 
 ### Comprando mejoras para el personaje:
 
