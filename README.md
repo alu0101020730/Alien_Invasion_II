@@ -1,3 +1,3 @@
 # Alien_Invasion_II
 
-#![CambiarDeArma](./gif/Cambiar de arma.gif)
+![CambiarDeArma](./gif/Cambiar de arma.gif)
