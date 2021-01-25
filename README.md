@@ -51,11 +51,11 @@ También es digno de mencionar que se ha usado el componente de animación para 
 ![GameOver](./gif/GameOver.gif)
 
 ## Acta de los acuerdos del grupo respecto al trabajo en equipo: reparto de tareas, tareas desarrolladas individualmente, tareas desarrolladas en grupo, etc.
-
+  
 Nuestra organización ha sido esta:
-Alberto: Jugador, Armas
-Sergio: UI, Escenario, Puntuación, Música, Recompensas de enemigos
-Cristian: Enemigos
+1. Alberto: Jugador, Armas
+2. Sergio: UI, Escenario, Puntuación, Música, Recompensas de enemigos
+3. Cristian: Enemigos
 	
 Alberto se ha encargado de diseñar la vida, colisión y estadísticas del jugador, también del diseño y asignación de armas, de su correcto funcionamiento y sus sonidos, tanto al disparar, recargar, etc.
 
